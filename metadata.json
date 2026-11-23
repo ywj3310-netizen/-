@@ -1,0 +1,6 @@
+{
+  "name": "강의실 몰폰: 교수님 눈치작전",
+  "description": "1인칭 시점 3D 강의실에서 교수님 몰래 스마트폰 게임을 플레이하는 모바일 스텔스 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
